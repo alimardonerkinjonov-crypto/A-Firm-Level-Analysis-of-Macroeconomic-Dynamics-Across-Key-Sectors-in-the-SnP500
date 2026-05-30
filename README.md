@@ -1,0 +1,2 @@
+# A-Firm-Level-Analysis-of-Macroeconomic-Dynamics-Across-Key-Sectors-in-the-SnP500
+An empirical econometrics project evaluating the impact of general and industry-specific inflation on firm-level real stock returns within the S&amp;P 500 (2014–2024). Features a panel data regression model built in STATA analyzing the interplay between asset returns, liquidity, and real economic activity across key market sectors
